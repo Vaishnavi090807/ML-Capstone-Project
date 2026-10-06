@@ -1,0 +1,3 @@
+Algorithm,Configuration,Silhouette Score,Davies-Bouldin Index,Calinski-Harabasz Index
+K-Means,k=5,0.3982248955319675,1.0462186146045542,4931.451452256616
+Agglomerative,"k=5, Ward linkage",0.37091879521875815,1.0742100819874545,4200.58213119003
